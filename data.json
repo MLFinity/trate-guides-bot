@@ -1,0 +1,23 @@
+{
+  "basic_used": [
+    1782389554
+  ],
+  "claim_counter": 1,
+  "subscriptions": {
+    "1782389554": {
+      "type": "Ultra",
+      "end": "2300-03-30T11:47:46.034294+03:00",
+      "tier": 3
+    }
+  },
+  "claims": {
+    "1": {
+      "uid": 1782389554,
+      "sub": "ultra",
+      "status": "pending"
+    }
+  },
+  "pending_links": {
+    "1782389554": "https://t.me/+sZKMTgKwa6c2MDUy"
+  }
+}

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=TrateGuides Code
+Comment=Открыть папку с кодом
+Exec=xdg-open "/home/mlfinity/Рабочий стол/TrateGuides"
+Type=Application
+Terminal=false
+Icon=folder
