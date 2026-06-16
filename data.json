@@ -1,23 +1,40 @@
 {
   "basic_used": [
+    8498476940,
     1782389554
   ],
-  "claim_counter": 1,
+  "claim_counter": 3,
   "subscriptions": {
     "1782389554": {
-      "type": "Ultra",
-      "end": "2300-03-30T11:47:46.034294+03:00",
-      "tier": 3
+      "type": "Pro",
+      "end": "2026-07-15T16:19:23.046297+03:00",
+      "tier": 1
+    },
+    "8498476940": {
+      "type": "Pro",
+      "end": "2026-08-14T16:19:42.836981+03:00",
+      "tier": 1
     }
   },
   "claims": {
     "1": {
       "uid": 1782389554,
-      "sub": "ultra",
+      "sub": "pro",
+      "status": "pending"
+    },
+    "2": {
+      "uid": 8498476940,
+      "sub": "pro",
+      "status": "pending"
+    },
+    "3": {
+      "uid": 8498476940,
+      "sub": "pro",
       "status": "pending"
     }
   },
   "pending_links": {
-    "1782389554": "https://t.me/+sZKMTgKwa6c2MDUy"
+    "1782389554": "https://t.me/+_b1iJ-Xal1E4NDYy",
+    "8498476940": "https://t.me/+DXZ99FsNJdgwNmJi"
   }
 }
